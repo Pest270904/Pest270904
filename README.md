@@ -22,9 +22,9 @@
 <br>
 
 
-<h3 align="left">Languages i know:</h3>
+
 <br>
-[![a](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
+[![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
 [![](https://skillicons.dev/icons?i=cs&theme=light)](https://www.w3schools.com/cs/index.php)
 [![](https://skillicons.dev/icons?i=js&theme=light)](https://www.w3schools.com/js/)
 [![](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
