@@ -49,7 +49,7 @@
   </a>
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="120" height="60"/>
+    <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="100" height="60"/>
   </a>
 
 </p>
