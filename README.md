@@ -43,11 +43,11 @@
   </a>
 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/img/logo-small.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
