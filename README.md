@@ -18,10 +18,12 @@
 - 🌱 I’m currently learning Web Development and other programming languages
 
 <h3 align="left">Connect with me:</h3>
+<p></p>
 <br>
 
 
 <h3 align="left">Languages i know:</h3>
+<p></p>
 <br>
 [![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
 [![](https://skillicons.dev/icons?i=cs&theme=light)](https://www.w3schools.com/cs/index.php)
@@ -32,6 +34,7 @@
 <br>
 
 <h3 align="left">Frameworks:</h3>
+<p></p>
 <br>
 [![](https://skillicons.dev/icons?i=nestjs&theme=light)](https://nestjs.com/)
 [![](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com/)
@@ -40,6 +43,7 @@
 <br>
 
 <h3 align="left">Others:</h3>
+<p></p>
 <br>
 [![](https://skillicons.dev/icons?i=linux&theme=light)](https://en.wikipedia.org/wiki/Linux)
 [![](https://skillicons.dev/icons?i=prisma&theme=light)](https://www.prisma.io/ )
