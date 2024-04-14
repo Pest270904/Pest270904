@@ -46,11 +46,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="100" height="60"/>
-  </a>
-
 </p>
 
 <h3 align="left">Others:</h3>
