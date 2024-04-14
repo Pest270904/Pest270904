@@ -60,7 +60,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="mssql" width="60" height="60"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://static-00.iconduck.com/assets.00/photoshop-icon-1024x999-xhts0syq.png" alt="photoshop" width="60" height="60"/>
