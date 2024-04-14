@@ -21,6 +21,7 @@
 <p align="left"></p>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,py&theme=light)](https://skillicons.dev)
 
 <br>
 
