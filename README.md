@@ -10,12 +10,6 @@
 - 🔭 I’m currently studying in University of Information Technology
 - 🌱 I’m currently learning Web Development and other programming languages
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/316vzdhffemnzjgow2lobmb7jcdm)
-
----
-
 ## Languages im using:
 [![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
 [![](https://skillicons.dev/icons?i=cs&theme=light)](https://www.w3schools.com/cs/index.php)
