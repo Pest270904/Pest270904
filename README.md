@@ -39,11 +39,22 @@
 [![](https://skillicons.dev/icons?i=vim&theme=light)](https://www.vim.org/)
 
 <br>
-<details>
-    <summary>Github Stats ⚡</summary>
-    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Pest270904&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pest270904&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+<p align="center">
+    <!--- stats (start) -->
+      <table align="center">
+      <tr border="none">
+      <td width="50%" align="center">   
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pest270904&theme=dark&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pest270904&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center"> 
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pest270904&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
+        </td>
+      </tr>
+    </table>
+</p>
+
 <br>
 
 ## Contact with me at:
