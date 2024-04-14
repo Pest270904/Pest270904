@@ -8,6 +8,9 @@
   />
 </p>
 
+- 🔭 I’m currently studying in University of Information Technology
+- 🌱 I’m currently learning Web Development and other programming languages
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
