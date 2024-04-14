@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" style="background-color: white;"/>
+    <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="60" height="60"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
