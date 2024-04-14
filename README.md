@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pest</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=pest270904&label=Profile%20views&color=0e75b6&style=flat"
-    alt="pest270904"
-  />
-</p>
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/570912822456877066?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/570912822456877066)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/570912822456877066)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/570912822456877066)](https://dev.discordprofiles.me/openspotify/570912822456877066)
 
 <!--- snake -->
 <div align="center">
@@ -46,22 +44,13 @@
 [![](https://skillicons.dev/icons?i=vim&theme=light)](https://www.vim.org/)
 
 <br>
+<details>
+    <summary>Github Stats ⚡</summary>
+    <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Pest270904&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+    <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pest270904&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  </details>
 
-<p align="center">
-<!--- stats (start) -->
-  <table align="center">
-  <tr border="none">
-  <td width="50%" align="center">   
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pest270904&theme=dark&show_icons=true&count_private=true" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pest270904&theme=dark&hide_border=false" /> 
-  </td>
-  <td width="50%" align="center"> 
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pest270904&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
-    </td>
-  </tr>
-</table>
-</p>
+<br>
 
 ## Contact with me at:
 [![](https://skillicons.dev/icons?i=discord&theme=light)](discordapp.com/users/570912822456877066)
