@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=light)](https://skillicons.dev)
 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=linux,prisma,ps&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,prisma&theme=light)](https://skillicons.dev)
 
 <p align="center">
 <!--- stats (start) -->
