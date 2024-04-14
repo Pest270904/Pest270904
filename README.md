@@ -17,7 +17,7 @@
 - 🔭 I’m currently studying in University of Information Technology
 - 🌱 I’m currently learning Web Development and other programming languages
 
-## Languages i know:
+## Languages im using:
 [![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
 [![](https://skillicons.dev/icons?i=cs&theme=light)](https://www.w3schools.com/cs/index.php)
 [![](https://skillicons.dev/icons?i=js&theme=light)](https://www.w3schools.com/js/)
@@ -27,17 +27,23 @@
 [![](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
 
 
-## Frameworks i know:
+## Frameworks im using:
 [![](https://skillicons.dev/icons?i=nestjs&theme=light)](https://nestjs.com/)
 [![](https://skillicons.dev/icons?i=express&theme=light)](https://expressjs.com/)
 [![](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en)
 
 
-## Others:
+## Other skills:
+[![](https://skillicons.dev/icons?i=npm&theme=light)](https://www.npmjs.com/)
 [![](https://skillicons.dev/icons?i=linux&theme=light)](https://en.wikipedia.org/wiki/Linux)
+[![](https://skillicons.dev/icons?i=bash&theme=light)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![](https://skillicons.dev/icons?i=docker&theme=light)](https://www.docker.com/)
+[![](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/Pest270904)
 [![](https://skillicons.dev/icons?i=prisma&theme=light)](https://www.prisma.io/)
 [![](https://skillicons.dev/icons?i=ps&theme=light)](https://skillicons.dev)
-
+[![](https://skillicons.dev/icons?i=visualstudio&theme=light)](https://visualstudio.microsoft.com/)
+[![](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
+[![](https://skillicons.dev/icons?i=vim&theme=light)](https://www.vim.org/)
 
 <br>
 
