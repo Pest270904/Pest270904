@@ -18,20 +18,23 @@
 - 🌱 I’m currently learning Web Development and other programming languages
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"></p>
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
-[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://www.w3schools.com/js/)
-[![My Skills](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
-[![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
+
+<h3 align="left">Languages i know:</h3>
+[![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
+[![](https://skillicons.dev/icons?i=cs&theme=light)](https://www.w3schools.com/cs/index.php)
+[![](https://skillicons.dev/icons?i=js&theme=light)](https://www.w3schools.com/js/)
+[![](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
+[![](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nestjs,nodejs,express&theme=light)](https://skillicons.dev)
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,prisma,ps&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=linux,prisma,ps&theme=light)](https://skillicons.dev)
 
 <br>
 
