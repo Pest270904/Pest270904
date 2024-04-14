@@ -18,7 +18,7 @@
 [![](https://skillicons.dev/icons?i=css&theme=light)](https://www.w3schools.com/css/)
 [![](https://skillicons.dev/icons?i=ts&theme=light)](https://www.typescriptlang.org/)
 [![](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
-<a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="70" height="70" /></a>
+<a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="58" height="58" /></a>
 
 
 ## Frameworks im using:
