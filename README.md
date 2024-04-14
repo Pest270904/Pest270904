@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pest</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/570912822456877066?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/570912822456877066)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/570912822456877066)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/570912822456877066)](https://dev.discordprofiles.me/openspotify/570912822456877066)
-
 <!--- snake -->
 <div align="center">
     <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
@@ -14,6 +9,12 @@
 
 - 🔭 I’m currently studying in University of Information Technology
 - 🌱 I’m currently learning Web Development and other programming languages
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/316vzdhffemnzjgow2lobmb7jcdm)
+
+---
 
 ## Languages im using:
 [![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
