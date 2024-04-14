@@ -8,6 +8,12 @@
   />
 </p>
 
+<!--- snake -->
+<div align="center">
+    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+         alt="snake" /></a>
+</div>
+
 - 🔭 I’m currently studying in University of Information Technology
 - 🌱 I’m currently learning Web Development and other programming languages
 
@@ -64,26 +70,21 @@
     </a>
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pest270904&show_icons=true&locale=en&layout=compact"
-    alt="pest270904"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=pest270904&show_icons=true&locale=en"
-    alt="pest270904"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pest270904&"
-    alt="pest270904"
-  />
-</p>
+<p align="center">
+<!--- stats (start) -->
+  <table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+    
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pest270904&theme=dark&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pest270904&theme=dark&hide_border=false" /> 
+  </td>
+  
+  <td width="50%" align="center">
+  
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pest270904&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    
+    </td>
+  </tr>
+</table>
