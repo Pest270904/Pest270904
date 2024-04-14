@@ -62,3 +62,7 @@
   </tr>
 </table>
 </p>
+
+## Contact with me at:
+[![](https://skillicons.dev/icons?i=discord&theme=light)](discordapp.com/users/570912822456877066)
+[![](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/sleepypest)
