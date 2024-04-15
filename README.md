@@ -7,7 +7,7 @@
          alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently studying in University of Information Technology
+- 🔭 I’m currently studying at University of Information Technology
 - 🌱 I’m currently learning Web Development and other programming languages
 
 ## Languages im using:
