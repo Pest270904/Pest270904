@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pest</h1>
-<h3 align="center">A passionate developer from VietNam</h3>
 
 <!--- snake -->
 <div align="center">
@@ -7,8 +6,7 @@
          alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently studying at University of Information Technology
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🔭 I’m currently studying at University of Information Technology in VietNam
 
 ## Languages im using:
 [![](https://skillicons.dev/icons?i=cpp&theme=light)](https://www.w3schools.com/cpp/)
